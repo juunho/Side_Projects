@@ -29,7 +29,7 @@ Role : Assistant & Guest Leacturer
 ~~~
 
 
-# Prosocial
+# Prosocial Project
 
 ### ESG Rating
 - 
